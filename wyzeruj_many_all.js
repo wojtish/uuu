@@ -4,7 +4,7 @@ var bib = lib().entries();
 var l = bib.lenght;
 
 if(entry().field("many all") == l){
-entry().set("wyzeruj","📕")
+entry().set("wyzeruj","📕");
 }
 
 
