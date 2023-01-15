@@ -1,0 +1,2 @@
+
+libByName("techniczna").show()
