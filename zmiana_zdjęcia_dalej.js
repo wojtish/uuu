@@ -17,7 +17,7 @@ var diffCount = imageCount - prevCount;
 
 var lastImage = prime[imageCount - 1];
 
-message(e.field("Nazwa zadania"));
+//message(e.field("Nazwa zadania"));
 
 if(imageCount > 1)
 {
