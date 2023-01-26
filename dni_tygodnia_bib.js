@@ -1,0 +1,1 @@
+libByName("dni tygodnia").show()
