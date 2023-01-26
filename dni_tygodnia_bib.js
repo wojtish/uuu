@@ -1,1 +1,1 @@
-libByName("dni tygodnia").show()
+libByName("dni tygodnia tydzień memento").show()
